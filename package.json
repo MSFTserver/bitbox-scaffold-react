@@ -6,6 +6,7 @@
   "version": "2.2.6",
   "private": true,
   "dependencies": {
+    "mocha": "^5.2.0",
     "node-sass": "^4.9.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
